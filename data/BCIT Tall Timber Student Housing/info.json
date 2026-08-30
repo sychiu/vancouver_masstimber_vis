@@ -1,0 +1,27 @@
+{
+  "description": "A 12-storey student residence whose point-supported CLT floors and concealed steel columns provide unobstructed modular suites for 469 students.",
+  "images": [
+    {
+      "index": 1,
+      "source": "© British Columbia Institute of Technology — https://www.bcit.ca/news/stories/bcits-tall-timber-student-is-rick-hansen-gold-certified/",
+      "path": "images/Tall-Timber-Student-Housing-1024x512.jpg"
+    },
+    {
+      "index": 2,
+      "source": "© British Columbia Institute of Technology — https://www.bcit.ca/news/stories/combining-sustainability-and-comfort-designing-bcits-new-tall-timber-student-housing-project/",
+      "path": "images/20240506-Mass_Timber_Student_Housing_8514-1-1-1.jpg"
+    },
+    {
+      "index": 3,
+      "source": "© British Columbia Institute of Technology — https://www.bcit.ca/campus-plan/tall-timber-student-housing/",
+      "path": "images/TTSH-3D-e1675965894115-600x400.png"
+    }
+  ],
+  "extended_reading_links": [
+    "https://app.speckle.systems/projects/723ddc61a3/models/5a36c2c7dc",
+    "https://www.fastepp.com/portfolio/bcit-student-housing/",
+    "https://perkinswill.com/project/bcit-tall-timber-student-housing/",
+    "https://www.naturallywood.com/projects/bcit-tall-timber-student-housing/",
+    "https://www.openstreetmap.org/way/1367291505"
+  ]
+}

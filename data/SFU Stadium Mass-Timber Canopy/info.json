@@ -1,0 +1,24 @@
+{
+  "description": "Massive timber box girders cantilever 16 metres over the stands, making the thin roof appear to float above unobstructed field views.",
+  "images": [
+    {
+      "index": 1,
+      "source": "Greg Salter, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AGrandstand_at_Terry_Fox_Field_at_Simon_Fraser_University.png",
+      "path": "images/Grandstand_at_Terry_Fox_Field_at_Simon_Fraser_University.jpg"
+    },
+    {
+      "index": 2,
+      "source": "Sheng-Yang Chiu",
+      "path": "images/IMG_3867.jpg"
+    },
+    {
+      "index": 3,
+      "source": "Sheng-Yang Chiu",
+      "path": "images/IMG_3871.jpg"
+    }
+  ],
+  "extended_reading_links": [
+    "https://perkinswill.com/insights/like-magic-a-stadium-canopy-floats-above-the-stands/",
+    "https://www.openstreetmap.org/way/980707209"
+  ]
+}

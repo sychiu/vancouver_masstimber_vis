@@ -1,0 +1,25 @@
+{
+  "description": "A five-storey academic complex combining CLT and wood-concrete composite floors around the world's first free-floating all-glulam cantilevered staircase.",
+  "images": [
+    {
+      "index": 1,
+      "source": "Phillip Jeffrey, CC BY-NC-SA 2.0 — https://www.flickr.com/photos/tyfn/9376599308/",
+      "path": "images/9376599308_a313f4d7a0_c.jpg"
+    },
+    {
+      "index": 2,
+      "source": "Public-domain image — https://www.mdpi.com/2071-1050/13/21/11881",
+      "path": "images/sustainability-13-11881-g014.png"
+    },
+    {
+      "index": 3,
+      "source": "Jeff Hitchcock, CC BY 2.0 — https://www.flickr.com/photos/arbron/35888798135/",
+      "path": "images/Earth_Sciences_Building_KK-Law-3.jpg.webp"
+    }
+  ],
+  "extended_reading_links": [
+    "https://www.arataumodular.com/app/wp-content/uploads/2022/06/Cross-Laminated-Timber-Taking-wood-buildings-to-the-next-level.pdf",
+    "https://www.naturallywood.com/projects/university-of-british-columbia-earth-sciences-building/",
+    "https://www.openstreetmap.org/way/56701161"
+  ]
+}

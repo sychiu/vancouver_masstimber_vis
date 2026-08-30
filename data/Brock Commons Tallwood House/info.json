@@ -1,0 +1,40 @@
+{
+  "description": "An 18-storey hybrid mass-timber residence—the world's tallest at completion—whose prefabricated timber superstructure was assembled in 70 days.",
+  "images": [
+    {
+      "index": 1,
+      "source": "Michael Elkan for Acton Ostry Architects and UBC, CC BY-NC 2.0 — https://www.flickr.com/photos/ubcpublicaffairs/39373846945/in/album-72157668526252206",
+      "path": "images/39373846945_12c1eed0a5_c.jpg"
+    },
+    {
+      "index": 2,
+      "source": "KK Law for naturallywood.com, CC BY-NC 2.0 — https://www.flickr.com/photos/ubcpublicaffairs/28434798953/in/album-72157668526252206",
+      "path": "images/28434798953_095b403acc_c.jpg"
+    },
+    {
+      "index": 3,
+      "source": "KK Law for naturallywood.com, CC BY-NC 2.0 — https://www.flickr.com/photos/ubcpublicaffairs/29052317745/in/album-72157668526252206",
+      "path": "images/29052317745_4acb57bec0_c.jpg"
+    },
+    {
+      "index": 4,
+      "source": "Michael Elkan for Acton Ostry Architects and UBC, CC BY-NC 2.0 — https://www.flickr.com/photos/ubcpublicaffairs/38461221090/in/album-72157668526252206",
+      "path": "images/38461221090_5d98e15c1f_c.jpg"
+    },
+    {
+      "index": 5,
+      "source": "UBC Media Relations, CC BY-NC 2.0 — https://www.flickr.com/photos/ubcpublicaffairs/28098979911/in/album-72157668526252206",
+      "path": "images/28098979911_f4af49cfe1_c.jpg"
+    },
+    {
+      "index": 6,
+      "source": "UBC Media Relations, CC BY-NC 2.0 — https://www.flickr.com/photos/ubcpublicaffairs/28098980991/in/album-72157668526252206",
+      "path": "images/28098980991_5f16051e79_c.jpg"
+    }
+  ],
+  "extended_reading_links": [
+    "https://livinglabs.ubc.ca/projects/brock-commons-tallwood-house",
+    "https://www.naturallywood.com/projects/brock-commons-tallwood-house/",
+    "https://www.openstreetmap.org/way/517623349"
+  ]
+}

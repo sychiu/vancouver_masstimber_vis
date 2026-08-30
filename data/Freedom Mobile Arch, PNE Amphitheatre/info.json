@@ -1,0 +1,36 @@
+{
+  "description": "A starburst roof of 60 mass-timber arches spans more than 340 feet, creating one of the world's largest free-span timber structures.",
+  "images": [
+    {
+      "index": 1,
+      "source": "Sheng-Yang Chiu",
+      "path": "images/IMG_3876.jpg"
+    },
+    {
+      "index": 2,
+      "source": "Canmenwalker, CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Freedom_Mobile_Arch_site_202604.jpg",
+      "path": "images/Freedom_Mobile_Arch_site_202604.jpg"
+    },
+    {
+      "index": 3,
+      "source": "Sheng-Yang Chiu",
+      "path": "images/IMG_3907.jpg"
+    },
+    {
+      "index": 4,
+      "source": "Sheng-Yang Chiu",
+      "path": "images/IMG_3904.jpg"
+    },
+    {
+      "index": 5,
+      "source": "Sheng-Yang Chiu",
+      "path": "images/IMG_3905.jpg"
+    }
+  ],
+  "extended_reading_links": [
+    "https://construireenboisvol17no1en.cecobois.com/integrating-embedded-carbon-in-design-choices/low-carbon-projects",
+    "https://reveryarchitecture.com/projects/pne-amphitheatre/",
+    "https://www.naturallywood.com/projects/freedom-mobile-arch/",
+    "https://www.openstreetmap.org/way/1450441243"
+  ]
+}

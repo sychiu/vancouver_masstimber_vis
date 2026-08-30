@@ -1,0 +1,34 @@
+{
+  "description": "The world's first LEED Platinum convention centre integrates a six-acre living roof, restored marine habitat, and extensive locally sourced wood interiors.",
+  "images": [
+    {
+      "index": 1,
+      "source": "Province of British Columbia, CC BY-NC-ND 2.0 — https://www.flickr.com/photos/bcgovphotos/5934879032/",
+      "path": "images/5934879032_8d73055e89_k.jpg"
+    },
+    {
+      "index": 2,
+      "source": "Photo courtesy of KK LAW",
+      "path": "images/Vancouver_Convention_Centre_West_Building_KK-Law-6.jpg.webp"
+    },
+    {
+      "index": 3,
+      "source": "Moody Man, CC BY-NC 2.0 — https://www.flickr.com/photos/portishead520/6051421404/",
+      "path": "images/6051421404_9fe7f84a9a_h.jpg"
+    },
+    {
+      "index": 4,
+      "source": "Vancouver Convention Centre, CC BY-NC-SA 2.0 — https://www.flickr.com/photos/vancouverconvention/4014271437/",
+      "path": "images/4014271437_e7420979e1_c.jpg"
+    },
+    {
+      "index": 5,
+      "source": "Vancouver Convention Centre, CC BY-NC-SA 2.0 — https://www.flickr.com/photos/vancouverconvention/4015156856/",
+      "path": "images/4015156856_6ed444fce5_c.jpg"
+    }
+  ],
+  "extended_reading_links": [
+    "https://www.naturallywood.com/projects/vancouver-convention-centre-west-building/",
+    "https://www.openstreetmap.org/way/85240507"
+  ]
+}

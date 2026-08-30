@@ -1,0 +1,29 @@
+{
+  "description": "Designed as a regenerative living laboratory, CIRS makes its exposed heavy-timber structure and high-performance systems part of ongoing sustainability research.",
+  "images": [
+    {
+      "index": 1,
+      "source": "Xicotencatl, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:CIRS_Building_UBC.jpg",
+      "path": "images/CIRS_Building_UBC.jpg"
+    },
+    {
+      "index": 2,
+      "source": "David Dodge, Green Energy Futures, CC BY-NC-SA 2.0 — https://www.flickr.com/photos/greenenergyfutures/8448696528/in/album-72157632697877272",
+      "path": "images/8448696528_03f22a8ef4_c.jpg"
+    },
+    {
+      "index": 3,
+      "source": "David Dodge, Green Energy Futures, CC BY-NC-SA 2.0 — https://www.flickr.com/photos/greenenergyfutures/8447603219/in/album-72157632697877272",
+      "path": "images/8447603219_ddfb49c112_c.jpg"
+    },
+    {
+      "index": 4,
+      "source": "David Dodge, Green Energy Futures, CC BY-NC-SA 2.0 — https://www.flickr.com/photos/greenenergyfutures/8447608739/in/album-72157632697877272",
+      "path": "images/8447608739_0e9d6350b7_c.jpg"
+    }
+  ],
+  "extended_reading_links": [
+    "https://www.naturallywood.com/projects/ubc-centre-for-interactive-research-on-sustainability/",
+    "https://www.openstreetmap.org/way/473496555#map=19/49.262042/-123.253079"
+  ]
+}
