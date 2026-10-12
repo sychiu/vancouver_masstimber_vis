@@ -2,6 +2,8 @@
 
 The map starts with a project location and a required number of trees. Tree locations are formed as a Matérn cluster pattern: loose groups are established at random, then trees are scattered around each group. Groups can overlap or remain separate, producing a mixture of denser stands, isolated trees, and open gaps.
 
+The model uses a nominal density of 220 trees per hectare, analogous to the optimized final-crop density of 250 trees per hectare studied in British Columbia’s coastal Douglas-fir research.
+
 This initial pattern is overlaid on OpenStreetMap data downloaded using Overpass Turbo. Permitted ground begins as the circular search area around the project, clipped to the land side of any `natural=coastline`. The following mapped features are removed:
 
 - `building=*`
@@ -23,8 +25,10 @@ Everything left in the land mask is permitted, including `landuse=residential`, 
 
 The final tree locations define the forest-area layer. A concave outline follows the irregular form of each tree cluster. The outline is expanded slightly to represent the surrounding stand, then trimmed where it meets the same restricted map features.
 
-## Reference for the clustered tree pattern
+## References
 
 Lutz, J. A., Larson, A. J., Freund, J. A., Swanson, M. E., and Bible, K. J. (2013). “The Importance of Large-Diameter Trees to Forest Structural Heterogeneity.” *PLOS ONE* 8(12): e82784. The study used a Matérn cluster process to simulate aggregated tree patterns in mapped temperate forests.
 
 https://doi.org/10.1371/journal.pone.0082784
+
+Province of British Columbia. [Pruning and spacing of Douglas-fir (EP 1065.01)](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-research/pruning-research/pruning-and-spacing-of-douglas-fir).
